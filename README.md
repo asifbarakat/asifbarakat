@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: [asifbarakat2001@gmail.com](mailto:asifbarakat2001@gmail.com)
-- 🤝 Connect with me: [linkedin.com/in/asif-barakat](www.linkedin.com/in/asif-barakat-4087a8253)
+- 🤝 Connect with me: [linkedin.com/in/asif-barakat](https://www.linkedin.com/in/asif-barakat-4087a8253)
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin:0 12px"/>
