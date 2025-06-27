@@ -37,5 +37,6 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake-dark.svg" alt="GitHub Snake dark" />
 </div>
+
