@@ -37,6 +37,16 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake-dark.svg" alt="GitHub Snake dark" />
+  <img
+    src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake-dark.svg"
+    alt="GitHub Snake dark"
+    style="
+      position: absolute;
+      top: 200px;
+      left: 500px;
+      width: 2000px;
+      opacity: 0.85;
+      pointer-events: none;
+    "
+  />
 </div>
-
