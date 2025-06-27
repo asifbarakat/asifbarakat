@@ -1,28 +1,18 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [asifbarakat2001@gmail.com](mailto:asifbarakat2001@gmail)  
+
+
+- 📫 How to reach me: [asifbarakat2001@gmail.com](mailto:asifbarakat2001@gmail.com)
 - 🤝 Connect with me: [linkedin.com/in/asif-barakat](https://linkedin.com/in/asif-barakat)
 
 <div align="center">
-  <!-- Light-mode snake graph -->
-  <img src="./dist/github-snake.svg" alt="GitHub Snake (light)" width="300px" style="margin:8px;" />
-
-  <!-- Dark-mode snake graph -->
-  <img src="./dist/github-snake-dark.svg" alt="GitHub Snake (dark)" width="300px" style="margin:8px;" />
-</div>
-
-<div align="center">
-  <img src="./dist/ocean.gif" alt="GitHub Snake Ocean GIF" width="300px" style="margin:8px;" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin:0 12px"/>
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="48" height="48" style="margin:0 12px"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="48" height="48" style="margin:0 12px"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="48" height="48" style="margin:0 12px"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="48" height="48" style="margin:0 12px"/>
-  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="48" height="48" style="margin:0 12px"/>
-  <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="48" height="48" style="margin:0 12px"/>
+  <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="48" height="48" style="margin:0 12px"/>
 </div>
 
 <table align="center">
