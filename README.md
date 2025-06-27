@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: [asifbarakat2001@gmail.com](mailto:asifbarakat2001@gmail.com)
-- 🤝 Connect with me: [linkedin.com/in/asif-barakat](https://linkedin.com/in/asif-barakat)
+- 🤝 Connect with me: [linkedin.com/in/asif-barakat](www.linkedin.com/in/asif-barakat-4087a8253)
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin:0 12px"/>
@@ -37,16 +37,5 @@
   </tr>
 </table>
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake-dark.svg"
-    alt="GitHub Snake dark"
-    style="
-      position: absolute;
-      top: 200px;
-      left: 500px;
-      width: 2000px;
-      opacity: 0.85;
-      pointer-events: none;
-    "
-  />
+  <img src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake-dark.svg" alt="GitHub Snake dark" />
 </div>
