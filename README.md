@@ -28,13 +28,13 @@
       </a>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/asifbarakat">
         <img src="https://streak-stats.demolab.com?user=asifbarakat&theme=dark&hide_border=true" alt="asifbarakat's GitHub Streak" />
       </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <div align="center">
   <img src="https://raw.githubusercontent.com/asifbarakat/asifbarakat/main/dist/github-snake-dark.svg" alt="GitHub Snake dark" />
