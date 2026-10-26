@@ -40,7 +40,7 @@ I specialize in **Software Quality Assurance, End-to-End Test Automation, and Pe
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=asifbarakat&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=asifbarakat&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifbarakat&layout=compact&hide=makefile,cmake&theme=tokyonight&border_radius=10" alt="Top Languages" />
