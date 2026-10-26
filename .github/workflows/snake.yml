@@ -1,15 +1,20 @@
 name: 🐍 Generate GitHub Snake
 
-
 on:
   schedule:
+    # Runs at minute 23 instead of 0 to avoid GitHub's top-of-the-hour GraphQL API crash
     - cron: "31 */6 * * *"
   push:
     branches: [ main ]
+    # Prevents unnecessary re-runs when the bot commits updated snake files
+    paths-ignore:
+      - "dist/**"
   workflow_dispatch:
 
 jobs:
   snake:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
@@ -24,6 +29,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          # Automatically uses GH_PAT if you add one for private repos, or falls back to GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push Snake
         run: |
