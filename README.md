@@ -37,21 +37,9 @@ I specialize in **Software Quality Assurance, End-to-End Test Automation, and Pe
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=asifbarakat&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifbarakat&layout=compact&hide=makefile,cmake&theme=tokyonight&border_radius=10" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=asifbarakat&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+ <div align="center">
+   <img src="https://streak-stats.demolab.com?user=asifbarakat&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+ </div>
 </div>
 
 ---
