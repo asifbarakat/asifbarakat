@@ -80,7 +80,6 @@
 ### 📊 Telemetry & Contribution Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asifbarakat&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=38bdf8&icon_color=3fb950&border_radius=10" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=asifbarakat&theme=tokyonight&background=0D1117&border=30363D&ring=38BDF8&fire=3FB950&currStreakLabel=38BDF8&border_radius=10" alt="GitHub Streak" />
 </div>
 
